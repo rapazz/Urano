@@ -1,0 +1,352 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/index.html",
+			"settings":
+			{
+				"buffer_size": 1179,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 104.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTAL",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/u1005407/Documents/GitHub/ngbp/src/app/home/home.tpl.html",
+		"/C/Users/u1005407/Desktop/chrome app/background.js",
+		"/C/Users/u1005407/Desktop/chrome app/manifest.json",
+		"/C/Users/u1005407/Desktop/chrome app/main.html",
+		"/C/Users/u1005407/Desktop/chrome app/funciones.js",
+		"/C/Users/u1005407/Desktop/chrome app/organigrama.html",
+		"/C/Users/u1005407/Desktop/chrome app/soap.html",
+		"/C/Users/u1005407/Desktop/chrome app/sandbox.html",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/manifest.json",
+		"/C/Users/u1005407/Desktop/chrome app/window.html",
+		"/C/Users/u1005407/Desktop/Organigrama/organigrama.html",
+		"/C/Users/u1005407/Desktop/Organigrama/index.html",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/js/miDirectorio.js",
+		"/C/Users/u1005407/Desktop/Organigrama/demo/js/primitives.latest.css",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/main.html",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/js/almacen.js",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/css/bootstrap.min.css",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/js/funciones.js",
+		"/C/xampp/htdocs/MiPHP/application/views/home.php",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/js/bootstrap.js",
+		"/C/Users/u1005407/Desktop/MisCasos.html",
+		"/C/Users/u1005407/Documents/GitHub/Extension-Chrome/js/bootstrap.min.js",
+		"/C/xampp/htdocs/freehelpdesk-2.3.15/fhd_config_sample.php",
+		"/C/xampp/htdocs/MiPHP/application/controllers/login_google.php",
+		"/C/xampp/htdocs/code/application/controllers/home.php",
+		"/C/xampp/htdocs/MiPHP/application/views/templates/cabecera.php",
+		"/C/xampp/htdocs/MiPHP/application/controllers/acceso.php",
+		"/C/xampp/htdocs/MiPHP/application/controllers/welcome.php",
+		"/C/Users/u1005407/Desktop/codeigniter-html5boilerplate-twitter-bootstrap-master/application/core/MY_Controller.php",
+		"/C/Users/u1005407/Desktop/codeigniter-html5boilerplate-twitter-bootstrap-master/application/controllers/home.php",
+		"/C/Users/u1005407/Desktop/lightopenid/example-google.php",
+		"/C/xampp/htdocs/MiPHP/application/config/autoload.php",
+		"/C/xampp/htdocs/MiPHP/application/libraries/OpenID.php",
+		"/C/xampp/htdocs/MiPHP/application/views/home.html",
+		"/C/xampp/htdocs/MiPHP/application/.htaccess",
+		"/C/xampp/htdocs/MiPHP/application/config/routes.php",
+		"/C/Users/u1005407/Desktop/lightopenid/openid.php",
+		"/C/xampp/htdocs/MiPHP/application/libraries/LightOpenID.php",
+		"/C/Users/u1005407/AppData/Local/Temp/7zOC3AF.tmp/example-google.php",
+		"/C/xampp/htdocs/MiPHP/application/controllers/Auth.php",
+		"/C/xampp/htdocs/MiPHP/application/libraries/libraries/OAuth2.php",
+		"/C/xampp/htdocs/MiPHP/application/views/login.php",
+		"/C/Users/u1005407/AppData/Local/Temp/Temp1_codeigniter-oauth2-master.zip/codeigniter-oauth2-master/config/autoload.php",
+		"/C/Users/u1005407/AppData/Local/Temp/Temp1_codeigniter-oauth2-master.zip/codeigniter-oauth2-master/libraries/Token/Access.php",
+		"/C/Users/u1005407/Desktop/google-api-php-client/examples/apps/index.php",
+		"/C/xampp/htdocs/MiPHP/application/controllers/login.php",
+		"/C/Users/u1005407/AppData/Local/Temp/Temp1_codeigniter-oauth2-master.zip/codeigniter-oauth2-master/libraries/Provider/Google.php",
+		"/C/Users/u1005407/AppData/Local/Temp/Temp1_codeigniter-oauth2-master.zip/codeigniter-oauth2-master/libraries/OAuth2.php",
+		"/C/Users/u1005407/Desktop/google-api-php-client/src/config.php",
+		"/C/Users/u1005407/Desktop/google-api-php-client/src/contrib/Google_Oauth2Service.php",
+		"/C/Users/u1005407/Desktop/google-api-php-client/examples/customSearch/index.php",
+		"/C/Users/u1005407/Desktop/google-api-php-client/examples/translate/simple.php",
+		"/C/xampp/htdocs/MiPHP/index.php",
+		"/C/xampp/htdocs/MiPHP/application/views/welcome_message.php",
+		"/C/xampp/htdocs/MiPHP/application/controllers/welcome1.php",
+		"/C/xampp/htdocs/MiPHP/application/core/MY_Loader.php",
+		"/C/xampp/htdocs/MiPHP/tools/spark",
+		"/C/xampp/htdocs/MiPHP/application/config/profiler.php",
+		"/C/xampp/htdocs/MiPHP/license.txt",
+		"/C/xampp/htdocs/restfull/application/config/rest.php",
+		"/C/xampp/htdocs/restfull/application/models/index.html",
+		"/C/xampp/htdocs/restfull/application/views/index.html",
+		"/C/xampp/htdocs/restfull/application/index.html",
+		"/C/xampp/htdocs/MiPHP/application/config/database.php",
+		"/C/Users/u1005407/Desktop/archivo.php",
+		"/C/Users/u1005407/Sublime Text/Data/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/u1005407/Desktop/DOCUMENTO.html"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"chart",
+			"orgchart",
+			"danger",
+			"table:danger",
+			"table",
+			"table-danger",
+			"ext.",
+			"’",
+			"Solicitudes",
+			"welcome",
+			"views",
+			"view"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/index.html",
+					"settings":
+					{
+						"buffer_size": 1179,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1179,
+								1179
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 134.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 320.0,
+	"status_bar_visible": true
+}
