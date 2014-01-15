@@ -1,6 +1,5 @@
 /*
 'use strict';
-
 /* Controllers */
 /*
 angular.module('myApp.controllers', []).
@@ -11,11 +10,9 @@ angular.module('myApp.controllers', []).
 
   }]);
   */
-
+  
   'use strict';
- 
 /* Controllers */
- 
 function LoginCtrl($scope) {
  
     var parameters = {"scope":"https://www.googleapis.com/auth/plus.login https://www.googleapis.com/auth/userinfo.email",

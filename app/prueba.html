@@ -1,0 +1,87 @@
+<!DOCTYPE  lang="es"  HTML>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<style type="text/css">
+#div1  {width:350px;height:70px;padding:10px;border:1px solid #aaaaaa;}
+#div2  {width:350px;height:70px;padding:10px;border:1px solid #aaaaaa;}
+</style>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js" ></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.js"> </script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/js/bootstrap.min.js"> </script>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap-popover.js"></script>
+<script src ="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/2.3.1/js/bootstrap-tooltip.js"></script>
+<LINK href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<script>
+function allowDrop(ev)
+{
+ev.preventDefault();
+}
+
+function drag(ev)
+{
+ev.dataTransfer.setData("Text",ev.target.id);
+}
+
+function drop(ev)
+{
+ev.preventDefault();
+var data=ev.dataTransfer.getData("Text");
+ev.target.appendChild(document.getElementById(data));
+
+$("#"+data).append( " <a href='#''  data-toggle='popover' data-content='And here's some amazing content. It's very engaging.''><img id='tool'  src='icono.jpeg' width='15' height='15'></a>" );
+
+
+document.getElementById ('tool').addEventListener("click",  function(){
+
+$("#sidebar").show();  
+
+
+},false);
+
+
+}
+
+
+
+
+
+
+
+</script>
+</head>
+<body>
+
+
+<div class="container">
+
+      <div class="row row-offcanvas row-offcanvas-right">
+
+        <div class="col-xs-12 col-sm-9">
+        
+         
+           <p>Drag the W3Schools image into the rectangle:</p>
+
+<div id="div1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+<br>
+<div id="drag1" ondragstart="drag(event)" draggable="true" width="336" height="69"> <input type="text"> </div>
+<div id="div2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+         
+        </div><!--/span-->
+
+        <div class="col-xs-6 col-sm-3 sidebar-offcanvas" style="display: none" id="sidebar" role="navigation">
+         Nombre: <input type="text"><br><br>
+         Tamaño: <input type="text"><br><br>
+         Titulo: <input type="text"><br><br>
+         Texto Ayuda: <input type="text">
+        </div><!--/span-->
+      </div><!--/row-->
+
+ </div>
+
+
+
+</body>
+</html>
+
